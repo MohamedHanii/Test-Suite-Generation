@@ -177,14 +177,6 @@ Test results are stored in the `example_results/` directory, showing:
 - Fitness evaluation statistics
 - Algorithm performance comparisons
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
 ## License
 
 This project is part of the Search-Based Software Engineering course at Universität Passau.
